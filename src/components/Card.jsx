@@ -2,7 +2,7 @@ const Card = () => {
   return (
     <div className="card flex-col items-center">
       <section className="card-img">
-        <img src="../../../profile-img.jfif" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/114384475?s=400&u=df8cddf812c468460b829d65ac6c7379bea83d0a&v=4" alt=""/>
       </section>
 
       <section className="card-heading flex-col items-center">
